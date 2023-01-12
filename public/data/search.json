@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "TKVXfgdwaWGnDr4qsxwD3-EAuaw",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+      "totalResults": 1000000,
+      "resultsPerPage": 25
+  },
+  "items": [
+      {
+          "kind": "youtube#searchResult",
+          "etag": "KVx1zR4ggDgKaiMfLZazk2FCVjQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "N7ZmPYaXoic"
+          },
+          "snippet": {
+              "publishedAt": "2015-11-16T01:54:05Z",
+              "channelId": "UC2r05YffIyAru43GMoxZBzw",
+              "title": "What is Coding?",
+              "description": "This video is an overview of computer programming (coding) at the most basic level. See where it came from and how it works.",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/N7ZmPYaXoic/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/N7ZmPYaXoic/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/N7ZmPYaXoic/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "TeXplaiNIT",
+              "liveBroadcastContent": "none",
+              "publishTime": "2015-11-16T01:54:05Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "E47ZljNEUsnD58c5sFBKe7DEBiA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "I-k-iTUMQAY"
+          },
+          "snippet": {
+              "publishedAt": "2020-05-30T17:00:07Z",
+              "channelId": "UCgqGpYjhnWvhE5-QrmXLkoQ",
+              "title": "basics of CODING in 10 minutes",
+              "description": "Hey Guys! Thought I'd switch it up and give you some CS instead of Philosophy today (woop woop to a Joint Honours Degree!)",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/I-k-iTUMQAY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/I-k-iTUMQAY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/I-k-iTUMQAY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "The StudyTube Project",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-05-30T17:00:07Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "XrsKZw6DZrb4fnk_XljNJM9Hq_0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "HIj8wU_rGIU"
+          },
+          "snippet": {
+              "publishedAt": "2020-02-25T15:43:31Z",
+              "channelId": "UCCktnahuRFYIBtNnKT5IYyg",
+              "title": "How to Start Coding | Programming for Beginners | Learn Coding | Intellipaat",
+              "description": "Intellipaat Python course: https://intellipaat.com/python-for-data-science-training/ Intellipaat Programming courses: ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/HIj8wU_rGIU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/HIj8wU_rGIU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/HIj8wU_rGIU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Intellipaat",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-02-25T15:43:31Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "lorKaHRcY6SUebKTzMULsZthqjE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "66tfvFeALBQ"
+          },
+          "snippet": {
+              "publishedAt": "2023-01-04T16:41:22Z",
+              "channelId": "UCsBjURrPoezykLs9EqgamOA",
+              "title": "How to ACTUALLY learn to code... 7 Roadmaps for 2023",
+              "description": "Explore 7 roadmaps or learning paths for beginner developers. The goal of this video is to provide a starting point for aspiring ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/66tfvFeALBQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/66tfvFeALBQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/66tfvFeALBQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Fireship",
+              "liveBroadcastContent": "none",
+              "publishTime": "2023-01-04T16:41:22Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "BvdvZpXjse4zYXJJGKKI3VJTkxg",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "k9WqpQp8VSU"
+          },
+          "snippet": {
+              "publishedAt": "2022-04-15T22:45:01Z",
+              "channelId": "UCLpovxJVLBZrXJGCymB6LYw",
+              "title": "How I Would Learn To Code (If I Could Start Over)",
+              "description": "If I could go back in time and learn to code, I would do a lot of things differently. If I could start over, I'd spend more time doing ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/k9WqpQp8VSU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/k9WqpQp8VSU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/k9WqpQp8VSU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Namanh Kapur",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-04-15T22:45:01Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "v8bi_HLhvNPb4uHbBH98yRkS4s0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "yGKFdwhylXM"
+          },
+          "snippet": {
+              "publishedAt": "2022-10-18T21:40:33Z",
+              "channelId": "UC4xKdmAXFh4ACyhpiQ_3qBw",
+              "title": "Why Coding is DEAD... and how to make money online.",
+              "description": "Ex-Google / ex-Meta TechLead on coding, tech, and making money in the new digital world. Join me in DeFi Pro and make ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/yGKFdwhylXM/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/yGKFdwhylXM/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/yGKFdwhylXM/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "TechLead",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-10-18T21:40:33Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "KWr4w-50n1elmNlRNOpXk6lFJqM",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "M5QY2_8704o"
+          },
+          "snippet": {
+              "publishedAt": "2019-12-22T17:16:51Z",
+              "channelId": "UCwVQIkAtyZzQSA-OY1rsGig",
+              "title": "Chillstep Music for Programming / Cyber / Coding",
+              "description": "Could music boost your coding performance? Monotonous keyboard clicks can make you lose your train of thought. Our minds ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/M5QY2_8704o/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/M5QY2_8704o/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/M5QY2_8704o/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Chill Music Lab",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-12-22T17:16:51Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "BuoDdEOsGj8iL3XdsyYMdL2hMKQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "CIRGjwYgdT4"
+          },
+          "snippet": {
+              "publishedAt": "2021-02-25T08:56:12Z",
+              "channelId": "UCRLEADhMcb8WUdnQ5_Alk7g",
+              "title": "Programming vs Coding - What&#39;s the difference?",
+              "description": "Programming vs coding -- my take on the difference. Learn the \"Zero to Freelance Programmer\" Strategy here ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/CIRGjwYgdT4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/CIRGjwYgdT4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/CIRGjwYgdT4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Aaron Jack",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-02-25T08:56:12Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "XA9XagGZdQamyR9mJ5q6Y5wcDHY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "8YA825ZNAIE"
+          },
+          "snippet": {
+              "publishedAt": "2022-05-18T01:38:42Z",
+              "channelId": "UC9rvsIHgzuiwTQ-yi0Qj2Mw",
+              "title": "Coding in Chicago v2.0 | 🎧 24/7 LoFi Hip-Hop Radio",
+              "description": "Welcome to Code Pioneers 24/7 livestream v2.0. This stream is dedicated to all the lofi hip-hop artists that submit great music to ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/8YA825ZNAIE/default_live.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/8YA825ZNAIE/mqdefault_live.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/8YA825ZNAIE/hqdefault_live.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Code Pioneers",
+              "liveBroadcastContent": "live",
+              "publishTime": "2022-05-18T01:38:42Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "V4AYYhXqdSbdfSMgHpjQLvn7WK4",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "zOjov-2OZ0E"
+          },
+          "snippet": {
+              "publishedAt": "2020-04-21T13:45:02Z",
+              "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+              "title": "Introduction to Programming and Computer Science - Full Course",
+              "description": "In this course, you will learn basics of computer programming and computer science. The concepts you learn apply to any and all ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/zOjov-2OZ0E/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "freeCodeCamp.org",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-04-21T13:45:02Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "VnfJPsY-ENULeqhzLcBd9HDOcmU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "MHPGeQD8TvI"
+          },
+          "snippet": {
+              "publishedAt": "2021-04-25T03:00:08Z",
+              "channelId": "UC2UXDak6o7rBm23k3Vv5dww",
+              "title": "How I would learn to code (if I could start over)",
+              "description": "NEWSLETTER: https://tinahuang.substack.com/ It's about learning, coding, and generally how to get your sh*t together c: In this ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/MHPGeQD8TvI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/MHPGeQD8TvI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/MHPGeQD8TvI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Tina Huang",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-04-25T03:00:08Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "m6rrXxGHD7B_0sreipzGI8dL1jc",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "BkzYfW1H8LI"
+          },
+          "snippet": {
+              "publishedAt": "2022-08-15T17:45:00Z",
+              "channelId": "UCLpovxJVLBZrXJGCymB6LYw",
+              "title": "FASTEST Way to Learn Coding and ACTUALLY Get a Job",
+              "description": "Today, I'll share how to learn programming fast and get your first full-time software engineer job - step by step. As a self taught ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/BkzYfW1H8LI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/BkzYfW1H8LI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/BkzYfW1H8LI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Namanh Kapur",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-08-15T17:45:00Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "J8dZAANQvnscwDU1TETxtxAVg5Q",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "-VDXBHLU8q4"
+          },
+          "snippet": {
+              "publishedAt": "2022-02-12T10:17:04Z",
+              "channelId": "UCcJQ96WlEhJ0Ve0SLmU310Q",
+              "title": "How I Learned to Code in 4 MONTHS &amp; Got a Job Offer (no CS Degree)",
+              "description": "How I became a self-taught Software Engineer & How I learned to code from completely zero without a Computer Science degree ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/-VDXBHLU8q4/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/-VDXBHLU8q4/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/-VDXBHLU8q4/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Internet Made Coder",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-02-12T10:17:04Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "bYxvAL_v1w-vav3hIxpmJILqwWA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "9s29LKfEFjQ"
+          },
+          "snippet": {
+              "publishedAt": "2022-06-29T16:00:08Z",
+              "channelId": "UChz9LmLfA1Q2SCx32fYw-Og",
+              "title": "How I would learn to code (If I could start over)",
+              "description": "Starting in Special Ed and ending at Microsoft (so far), my journey into Software Engineering was difficult to say the least. If I could ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/9s29LKfEFjQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/9s29LKfEFjQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/9s29LKfEFjQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Jason Goodison",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-06-29T16:00:08Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "Kfdwur5qV8DGSP3KZLQQSLhnTTY",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "rfscVS0vtbw"
+          },
+          "snippet": {
+              "publishedAt": "2018-07-11T18:00:42Z",
+              "channelId": "UC8butISFwT-Wl7EV0hUK0BQ",
+              "title": "Learn Python - Full Course for Beginners [Tutorial]",
+              "description": "This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/rfscVS0vtbw/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/rfscVS0vtbw/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/rfscVS0vtbw/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "freeCodeCamp.org",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-07-11T18:00:42Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "4UtsMOk9E3qKU7LcaS8wHzFl4HM",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "_ITiwPMUzho"
+          },
+          "snippet": {
+              "publishedAt": "2020-11-26T19:54:41Z",
+              "channelId": "UCDK54OyzWnOczY7LzEd9V2Q",
+              "title": "3 AM Coding Session - Lofi Hip Hop Mix [Study &amp; Coding Beats]",
+              "description": "3 AM Coding Session - Lofi Hip Hop Mix [Study & Coding Beats] → feardog's lofi hip hop mix to study, sleep, relax or code to ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/_ITiwPMUzho/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/_ITiwPMUzho/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/_ITiwPMUzho/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Lofi Ghostie",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-11-26T19:54:41Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "yUL9ggPuRMTC7wDVsnZfzlfS_Vs",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "l9nh1l8ZIJQ"
+          },
+          "snippet": {
+              "publishedAt": "2019-02-08T18:28:15Z",
+              "channelId": "UCT5RMcRGa32Th0AZ0Dxxviw",
+              "title": "Programming / Coding / Hacking music vol.16 (CONNECTION LOST)",
+              "description": "UKRAINE IS UNDER ATTCK! HELLO WORLD! My country is under attack. We need money to support our army. We need weapon ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/l9nh1l8ZIJQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/l9nh1l8ZIJQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/l9nh1l8ZIJQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "JimTV",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-02-08T18:28:15Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "3QcmBGy_QzAP--zdisQzIDQePeE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "ORCd0lul9mE"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-30T13:00:14Z",
+              "channelId": "UCcJQ96WlEhJ0Ve0SLmU310Q",
+              "title": "FASTEST Way to Learn to Code and ACTUALLY Get a Job (in 2023)",
+              "description": "SIGN UP FOR MY FREE Q&A LIVESTREAM ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/ORCd0lul9mE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/ORCd0lul9mE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/ORCd0lul9mE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Internet Made Coder",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-30T13:00:14Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "_UpKMiLitU7TZrRndWotOvbF7To",
+          "id": {
+              "kind": "youtube#channel",
+              "channelId": "UCInW7i0164zjsE8DDnFojCg"
+          },
+          "snippet": {
+              "publishedAt": "2019-11-09T00:01:39Z",
+              "channelId": "UCInW7i0164zjsE8DDnFojCg",
+              "title": "Coding With The Force",
+              "description": "Welcome to Coding With The Force where you can find high quality development, administrative and architecture tutorials for the ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://yt3.ggpht.com/ytc/AMLnZu-73Ba3G83dRQLTkp9M-3CGX03YooH0Xmt7DUmA=s88-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "medium": {
+                      "url": "https://yt3.ggpht.com/ytc/AMLnZu-73Ba3G83dRQLTkp9M-3CGX03YooH0Xmt7DUmA=s240-c-k-c0xffffffff-no-rj-mo"
+                  },
+                  "high": {
+                      "url": "https://yt3.ggpht.com/ytc/AMLnZu-73Ba3G83dRQLTkp9M-3CGX03YooH0Xmt7DUmA=s800-c-k-c0xffffffff-no-rj-mo"
+                  }
+              },
+              "channelTitle": "Coding With The Force",
+              "liveBroadcastContent": "none",
+              "publishTime": "2019-11-09T00:01:39Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "fM5B0g9tRdgSGooUa04pROhiog0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "GXlckaGr0Eo"
+          },
+          "snippet": {
+              "publishedAt": "2022-11-17T15:22:29Z",
+              "channelId": "UCvPPXcl5dJiBgRKGTA8inPA",
+              "title": "ASMR Programming - Coding Pacman - No Talking",
+              "description": "Hello my dear coders, Coding pacman was difficult than I thought. I've used Dijkstra algorithm for the ghosts. I am open to any ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/GXlckaGr0Eo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/GXlckaGr0Eo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/GXlckaGr0Eo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Servet Gulnaroglu",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-11-17T15:22:29Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "TTDUMIMfF-IkNeIWflvAxIznSqQ",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "fY3Ggo31FnE"
+          },
+          "snippet": {
+              "publishedAt": "2022-05-04T15:00:32Z",
+              "channelId": "UCUOMtzQmEmhIAF8G_cha_Xw",
+              "title": "Learning to code is the BEST financial decision you&#39;ll EVER make! Here&#39;s why..",
+              "description": "I recently partnered with Mint Mobile! Check them out if you're looking to save money on your cell phone bill. They have plans ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/fY3Ggo31FnE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/fY3Ggo31FnE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/fY3Ggo31FnE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Dorian Develops",
+              "liveBroadcastContent": "none",
+              "publishTime": "2022-05-04T15:00:32Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "FkuCV4C-YK7MDRwHNefE4NeWSuU",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "j-3eArinB7E"
+          },
+          "snippet": {
+              "publishedAt": "2020-01-19T15:34:08Z",
+              "channelId": "UCq2Sm0h2cDmqKtlaonWNUpQ",
+              "title": "Coding for Kids |What is coding for kids? | Coding for beginners | Types of Coding |Coding Languages",
+              "description": "Pop over to https://learningmole.com/pricing/ to subscribe and access over 350 fabulous educational videos AND we are offering ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/j-3eArinB7E/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/j-3eArinB7E/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/j-3eArinB7E/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "LearningMole",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-01-19T15:34:08Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "begMkKvub7mV-LJbFig40psKDo0",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "bJzb-RuUcMU"
+          },
+          "snippet": {
+              "publishedAt": "2018-11-04T01:12:12Z",
+              "channelId": "UCfuSelBtnyCACv0KjG2P1-A",
+              "title": "How To Learn Programming for BEGINNERS! (2019/2020)",
+              "description": "This simple tutorial will teach you how you can learn computer programming and teach yourself code. Learning code is not that ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/bJzb-RuUcMU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/bJzb-RuUcMU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/bJzb-RuUcMU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "CroatCode",
+              "liveBroadcastContent": "none",
+              "publishTime": "2018-11-04T01:12:12Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "P9zLfAeTtZhOlJdWmMbgdSPe7pA",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "f02mOEt11OQ"
+          },
+          "snippet": {
+              "publishedAt": "2020-04-24T15:30:02Z",
+              "channelId": "UCXPBsjgKKG2HqsKBhWA4uQw",
+              "title": "code-fi / lofi beats to code/relax to",
+              "description": "As the developer community continues coding away from home, the AMP outreach team wanted to share something we put ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/f02mOEt11OQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/f02mOEt11OQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/f02mOEt11OQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "The AMP Channel",
+              "liveBroadcastContent": "none",
+              "publishTime": "2020-04-24T15:30:02Z"
+          }
+      },
+      {
+          "kind": "youtube#searchResult",
+          "etag": "0wGOkgeN2_wG9zYTdsgcCDKAXIE",
+          "id": {
+              "kind": "youtube#video",
+              "videoId": "FrFY6Y1MJBQ"
+          },
+          "snippet": {
+              "publishedAt": "2021-04-25T21:06:10Z",
+              "channelId": "UCkCJ0zLrSg7VudR97g-FNVQ",
+              "title": "Self Taught Programmers... Listen Up.",
+              "description": "Special deal! Every purchase of a 2-year plan will get you 1 additional month free. Go to https://www.nordvpn.com/gunderman or ...",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/FrFY6Y1MJBQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/FrFY6Y1MJBQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/FrFY6Y1MJBQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  }
+              },
+              "channelTitle": "Kenny Gunderman",
+              "liveBroadcastContent": "none",
+              "publishTime": "2021-04-25T21:06:10Z"
+          }
+      }
+  ]
+}
