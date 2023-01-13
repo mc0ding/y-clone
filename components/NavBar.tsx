@@ -6,18 +6,17 @@ import { BsSearch } from 'react-icons/bs';
 
 export default function NavBar() {
   const router = useRouter();
-  const [search, setSearch] = useState<string>("");
+  const [search, setSearch] = useState<string>('');
   const handleChange = (e: any) => {
     setSearch(e.target.value);
-  }
+  };
   const handleSubmit = (e: any) => {
     e.preventDefault();
-    console.log(search);
-    router.push(`/${search}`);
+    router.push(`/search/${search}`);
   }
   return (
     <div className="flex pt-6 pb-6">
-      <Link className="ml-3 mr-auto max-sm:mr-0" href="/">
+      <Link className="ml-3 mr-auto max-sm:mr-0" href='/'>
         <Image alt='logo' src='/logo.jpg' width={100} height={10} />
       </Link>
       <form className="flex mr-auto max-sm:ml-auto">
