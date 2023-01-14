@@ -7,18 +7,7 @@ export const API_KEY = process.env.NEXT_PUBLIC_API_KEY;
 
 export const getData = () => axios.get(`https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=25&q=찬양&key=${API_KEY}`);
 
-export async function getServerSideProps() {
-  const queryClient = new QueryClient();
-  await queryClient.prefetchQuery('data', getData);
-  
-  return {
-    props: {
-      dehydratedState: dehydrate(queryClient),
-    },
-  }
-}
-
-export default function Contents(props: any) {
+export default function HomeContents(props: any) {
   const router = useRouter();
   const { data } = useQuery('data', getData);
   const handlerClick = (id: string) => {
@@ -49,4 +38,15 @@ export default function Contents(props: any) {
         
     </div>
   );
+}
+
+export async function getServerSideProps() {
+  const queryClient = new QueryClient();
+  await queryClient.prefetchQuery('data', getData);
+  
+  return {
+    props: {
+      dehydratedState: dehydrate(queryClient),
+    },
+  }
 }

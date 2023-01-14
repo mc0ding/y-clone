@@ -4,15 +4,17 @@ import { useRouter } from "next/router";
 import { useState } from "react";
 import { BsSearch } from 'react-icons/bs';
 
+export const API_KEY = process.env.NEXT_PUBLIC_API_KEY;
+
 export default function NavBar() {
   const router = useRouter();
-  const [search, setSearch] = useState<string>('');
+  const [query, setQuery] = useState<string>('');
   const handleChange = (e: any) => {
-    setSearch(e.target.value);
+    setQuery(e.target.value);
   };
   const handleSubmit = (e: any) => {
     e.preventDefault();
-    router.push(`/search/${search}`);
+    router.push(`/search/${query}`);
   }
   return (
     <div className="flex pt-6 pb-6">

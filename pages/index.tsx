@@ -1,5 +1,6 @@
-import Contents from "../components/Contents";
+import HomeContents from "../components/HomeContents";
 
 export default function Home() {
-  return <Contents />
+  return <HomeContents />;
 }
+
