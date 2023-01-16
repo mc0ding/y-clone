@@ -5,10 +5,10 @@ module.exports = {
     "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    gridTemplateColumns: {
-      'auto-fill': 'repeat(auto-fill, minmax(20rem, 1fr))',
-    },
     extend: {
+      colors: {
+        brand: '#FF0000',
+      },
       fontFamily: {
         dodum: ['"Gowun Dodum", "sans-serif"'],
       },

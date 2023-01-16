@@ -1,9 +1,10 @@
-import NavBar from "./NavBar";
+import SearchHeader from "./SearchHeader";
+
 
 export default function Layout({children}:{children: any}) {
   return (
     <>
-     <NavBar />
+     <SearchHeader />
       <div>
         {children}
       </div> 
