@@ -5,7 +5,7 @@ export default class Youtube {
   }
 
   async search(keyword: string) {
-    return keyword ? this.searchByKeyword(keyword) : this.mostPopular();
+    return keyword ? this.searchByKeyword(keyword) : this.mainVideos();
   }
 
   async channelImageURL(id: string) {
@@ -44,16 +44,19 @@ export default class Youtube {
       );
   }
 
-  private async mostPopular() {
+  private async mainVideos() {
     return this.apiClient
-      .videos({
-        params: {
-          part: 'snippet',
-          maxResults: 25,
-          chart: 'mostPopular',
-        },
-      })
-      .then((res: any) => res.data.items);
+    .search({
+      params: {
+        part: 'snippet',
+        maxResults: 25,
+        type: 'video',
+        q: '아기 자장가 찬양',
+      },
+    })
+    .then((res: any) =>
+      res.data.items.map((item: any) => ({ ...item, id: item.id.videoId }))
+    );
   }
 }
 
