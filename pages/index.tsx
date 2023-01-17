@@ -1,4 +1,3 @@
-import { useRouter } from "next/router";
 import { dehydrate, QueryClient, useQuery } from "react-query";
 import Youtube from "../api/youtube";
 import YoutubeClient from "../api/youtubeClient";
@@ -32,8 +31,8 @@ export default function Home() {
 
 export async function getServerSideProps() {
   const queryClient = new QueryClient();
-  await queryClient.prefetchQuery('data', () => youtube.search(''));
-  
+  const data = await queryClient.prefetchQuery('data', () => youtube.search(''));  
+
   return {
     props: {
       dehydratedState: dehydrate(queryClient),

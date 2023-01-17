@@ -1,6 +1,5 @@
 import Image from "next/image";
 import { useRouter } from "next/router";
-import {format} from 'timeago.js';
 import formatAgo from "../util/date";
 
 interface VideoProps {
